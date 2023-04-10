@@ -46,6 +46,11 @@ public class Problem01 {
     }
     
    // also discuss T(n) = 3 T(n/4) + n
+    //a=3, b = 4  log(b)a =log(4)3 =0.79
+    // f(n) = n , c=1
+    // 1>0.79, c>log(4)3
+    //case 3
+    //T(n) = O(n)
     
     
 }
